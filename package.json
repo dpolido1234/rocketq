@@ -1,0 +1,11 @@
+{
+  "name": "rocketq",
+  "version": "1.0.0",
+  "description": "primeiro projet de node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danilo",
+  "license": "ISC"
+}
